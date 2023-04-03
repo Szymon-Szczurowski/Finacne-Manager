@@ -1,3 +1,3 @@
 # Finacne-Manager
 
-https://szymon-szczurowski.github.io/Finacne-Manager/
+https://szymon-szczurowski.github.io/Finance-Manager/
